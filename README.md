@@ -37,6 +37,11 @@ I believe the best way to learn is by building, breaking things and figuring out
 ### Currently
 Exploring new technologies, improving my development skills and working on ideas that interest me.
 
+## 📊GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wajihaxxe&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wajihaxxe&layout=compact&theme=transparent)
+
 ### 📫Connect With Me
 GitHub: [@wajihaxxe](https://github.com/wajihaxxe)
 LinkedIn: www.linkedin.com/in/wajihaeh
