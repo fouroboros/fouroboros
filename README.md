@@ -20,7 +20,7 @@ Exploring new technologies, improving my development skills and working on ideas
 
 ### 📫Connect With Me
 GitHub: [@wajihaxxe](https://github.com/wajihaxxe)
-LinkedIn: [Add your LinkedIn profile]
+LinkedIn: www.linkedin.com/in/wajihaeh
 
 
 
