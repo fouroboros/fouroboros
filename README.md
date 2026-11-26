@@ -1,4 +1,4 @@
-# Hey, I'm Wajiha
+# Hii I'm Wajiha
 fouroboros is inspired by the character in marvel author of TVA manual "Ouroboros" as female hence i am Fouroboros.
 
 ### Somewhere between creativity and code.
